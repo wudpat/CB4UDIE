@@ -130,11 +130,6 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-<<<<<<< Updated upstream
-  - component: {fileID: 365488879}
-  - component: {fileID: 365488878}
-  - component: {fileID: 365488877}
-=======
   - component: {fileID: 81620320}
   - component: {fileID: 81620321}
   - component: {fileID: 81620322}
@@ -1295,7 +1290,6 @@ GameObject:
   - component: {fileID: 519420029}
   - component: {fileID: 519420030}
   - component: {fileID: 519420033}
->>>>>>> Stashed changes
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -1371,9 +1365,6 @@ Transform:
   m_GameObject: {fileID: 365488876}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-<<<<<<< Updated upstream
-  m_LocalPosition: {x: 0, y: 0, z: -10}
-=======
   m_LocalPosition: {x: -11.389999, y: -6.2999997, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -2082,7 +2073,6 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
->>>>>>> Stashed changes
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2092,9 +2082,6 @@ Transform:
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
-<<<<<<< Updated upstream
-  - {fileID: 365488879}
-=======
   - {fileID: 519420032}
   - {fileID: 619394802}
   - {fileID: 2052640750}
@@ -2102,4 +2089,3 @@ SceneRoots:
   - {fileID: 1793759074}
   - {fileID: 1315335787}
   - {fileID: 1575831991}
->>>>>>> Stashed changes
