@@ -1,0 +1,4 @@
+repository "Undead Gallery@DDCT_1001team@cloud"
+  path "/"
+    br "/main"
+    co "/main"
